@@ -9,6 +9,11 @@ Welcome to the Team Spectro's Image Processing Robot repository! This project in
 |:---------------------------------------------------:|:---------------------------------------------------:|
 |![Exmo-bot (2)](https://github.com/sithija-vihanga/Image-processing-navigation-bot/assets/116638289/2771492d-50bf-477a-9f16-1d984ec340ec)| ![Exmo-bot (4)](https://github.com/sithija-vihanga/Image-processing-navigation-bot/assets/116638289/c5fbec38-7ab9-4aa2-82df-c9246cf936fd)|
 
+## Chassis
+
+ ![chassis](https://github.com/sithija-vihanga/Image-processing-navigation-bot/assets/116638289/9896016d-9fff-49fc-a197-c9416065efeb) 
+![chassis part](https://github.com/sithija-vihanga/Image-processing-navigation-bot/assets/116638289/1b11d723-8448-408e-9d0e-4d4eddefd341)
+
 
 ## Features
 
