@@ -2,6 +2,14 @@
 
 Welcome to the Team Spectro's Image Processing Robot repository! This project involves the development of a robot capable of autonomous navigation using image processing techniques. The robot utilizes an ESP32-CAM module for image acquisition, processing, and communication.
 
+
+## Images
+
+|![Exmo-bot (1)](https://github.com/sithija-vihanga/Image-processing-navigation-bot/assets/116638289/b0201a47-a1e2-488d-a0fe-2dfb9f20c80a) | ![Exmo-bot (3)](https://github.com/sithija-vihanga/Image-processing-navigation-bot/assets/116638289/d142f63f-d02e-40a1-b795-2aacd4ca4284)|
+|:---------------------------------------------------:|:---------------------------------------------------:|
+|![Exmo-bot (2)](https://github.com/sithija-vihanga/Image-processing-navigation-bot/assets/116638289/2771492d-50bf-477a-9f16-1d984ec340ec)| ![Exmo-bot (4)](https://github.com/sithija-vihanga/Image-processing-navigation-bot/assets/116638289/c5fbec38-7ab9-4aa2-82df-c9246cf936fd)|
+
+
 ## Features
 
 - **Image Processing**: The robot employs Python code to process the camera feed, enabling it to identify objects, estimate distances, and detect shapes like arrows.
