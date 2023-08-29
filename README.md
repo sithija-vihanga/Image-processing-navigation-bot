@@ -31,9 +31,12 @@ To get started with the Spectro Image Processing Robot, follow these steps:
 1. Clone this repository to your local machine.
 2. Make sure you have Python installed, and install the necessary dependencies listed in `requirements.txt`.
 3. Open the Python code for image processing and update the IP address to match the robot's IP address. This IP address will be displayed on the robot's OLED display.
-4. Connect your PC or laptop to the robot's hotspot.
-5. Run the Python code to establish a connection and start receiving the camera feed.
-6. Observe the robot's navigation decisions and control it through the provided commands.
+   
+   ![Exmo_bot-01](https://github.com/sithija-vihanga/Image-processing-navigation-bot/assets/116638289/d5db562a-7e02-405e-99e3-947f18197e2f)
+
+5. Connect your PC or laptop to the local hotspot.
+6. Run the Python code to establish a connection and start receiving the camera feed.
+7. Observe the robot's navigation decisions and control it through the provided commands.
 
 ## Folder Structure
 
